@@ -16,7 +16,6 @@ In this project, **Treasure Hunt Game** we will be implementing the full gamepla
   - `&` = Bomb + Treasure (Life Insurance 💼)
   - `.` = Nothing found
 - Game ends when player runs out of lives or moves
-- 
 ---
 
 ## 🧠 Concepts Practiced
